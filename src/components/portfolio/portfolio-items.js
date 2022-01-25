@@ -1,6 +1,6 @@
 import React from "react";
 
-extends default function() {
+export default function() {
     return (
         <div>
             <h3>Portfolio item</h3>
